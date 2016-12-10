@@ -6,3 +6,6 @@
 
 # Cucumber
 [Cucumber](https://github.com/zxgjava/summary-doc/wiki/cucumber)
+
+#NFS协议文件共享
+[文件共享教程](https://github.com/zxgjava/summary-doc/wiki/NFS-share-folder)
