@@ -10,5 +10,8 @@
 #NFS协议文件共享
 [文件共享教程](https://github.com/zxgjava/summary-doc/wiki/NFS-share-folder)
 
-##Docker
+#Docker
 [Docker入门教程](https://github.com/zxgjava/summary-doc/wiki/docker)
+
+#Agilean Kanban安装指南
+[安装指南](https://github.com/zxgjava/summary-doc/wiki/agilean-kanban-install)
